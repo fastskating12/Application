@@ -1,0 +1,10 @@
+name: Application
+version: '${project.version}'
+main: me.fast.application.Application
+api-version: 1.17
+authors: [ AnonymouslyFast ]
+description: no
+commands:
+  getwand:
+    description: gives you a wand
+    usage: <command>
